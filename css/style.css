@@ -1,0 +1,26 @@
+.cas{
+    margin: auto;
+    
+}
+
+hr{
+    width: 500px;
+    margin: auto;
+    margin-top: 25px;
+    height: 2px;
+    background-color: blue;
+    color: blue;
+    
+}
+
+.for{
+margin: auto;
+background-image:url(../img/pexels-natalia-raspivina-72935564-8573679.jpg) ;
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+
+
+}
